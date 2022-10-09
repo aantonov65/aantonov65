@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aantonov65!
-- 👀 I’m interested in Website Developing!
 - 🌱 I’m currently learning Javascript!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in gmail: aantni048@gmail.com
