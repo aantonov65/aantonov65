@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aantonov65!
-- 🌱 I’m currently learning Javascript!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React!
 - 📫 How to reach me in gmail: aantni048@gmail.com
 
 <!---
