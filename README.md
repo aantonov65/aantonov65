@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aantonov65!
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning параметрични уравнения на права в геометрично пространство
 - 📫 How to reach me in gmail: aantni048@gmail.com
 
 <!---
